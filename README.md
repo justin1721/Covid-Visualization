@@ -14,5 +14,5 @@ The dataset contains two csv tables called Covid_Deaths and Covid_Vaccinations.
 Created four tables on the SQL server and copied the data to Excel to input them into Tableau.
 
 ## 📊 Visualization 
-Tableau: [Link](https://public.tableau.com/app/profile/justin.mcauliffe/viz/Covid_Project_17091625388030/Dashboard1?publish=yes) using Tableau.
+Tableau: [Link](https://public.tableau.com/app/profile/justin.mcauliffe/viz/Covid_Project_17091625388030/Dashboard1?publish=yes) 
 ![Covid-1](https://github.com/justin1721/images/blob/main/Covid_Dashboard_1.png?raw=true)
